@@ -1,0 +1,2 @@
+Run npm install to install all the node_modules, 
+followed by "npm run dev" to start the development server.
